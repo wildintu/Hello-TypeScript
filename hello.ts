@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 class Counter {
     count = 100;
 
